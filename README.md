@@ -22,8 +22,15 @@ I'm Andrei "DR8" Ustinov React Frontend Developer (also a music producer)
 
 
 ## 🔗 Links
-[Portfolio](https://dr8off.github.io/portfolio/)
-[YouTube](https://www.youtube.com/@DR8off)
-[Telegram](https://t.me/DR8off)
+<a href="https://dr8off.github.io/portfolio/">
+<img alt="Static Badge" src="https://img.shields.io/badge/Personal%20Website%20-%20%23141414?style=flat&logoColor=%23FFFFFF">
+</a>
+<a href="https://www.youtube.com/@DR8off">
+<img alt="Static Badge" src="https://img.shields.io/badge/YouTube%20-%20%23fe0032?style=flat&logo=youtube&logoColor=%23FFFFFF">
+</a>
+<a href="https://t.me/DR8off">
+<img alt="Static Badge" src="https://img.shields.io/badge/Telegram%20-%20%2318a3e6?style=flat&logo=telegram&logoColor=%23FFFFFF">
+</a>
+
 
 
