@@ -18,9 +18,7 @@ app [Reqly](https://github.com/DR8off/Reqly). I love to build native solutions a
 ![ReduxToolkit](https://img.shields.io/badge/ReduxToolkit-purple)
 ![Zustand](https://img.shields.io/badge/Zustand-purple)
 ![Vite](https://img.shields.io/badge/Vite-purple)
-![Static Badge](https://img.shields.io/badge/Axios-%235929e4)
 ![Static Badge](https://img.shields.io/badge/Git-%23ea502c)
-![Static Badge](https://img.shields.io/badge/AntDesign-%231279ff)
 
 
 
